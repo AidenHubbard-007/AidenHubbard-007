@@ -2,7 +2,7 @@
 
 Computer Science student at Cecil College, focused on data science and machine learning.
 
-- 🔭 **Currently working on:** Falling Sand Simulation
+<!-- - 🔭 **Currently working on:** Falling Sand Simulation -->
 - 🌱 **Currently learning:** Python, C++, Data Science
 - 💡 **Interested in:** Data / ML
 - 📫 **Reach me:** hubba78826@chawk.cecil.edu
@@ -30,7 +30,7 @@ Computer Science student at Cecil College, focused on data science and machine l
 
 ### 🎯 Featured Project
 
-**[Falling Sand Simulation](#)** — a cellular-automata style particle physics sim.
+<!--**[Falling Sand Simulation](#)** — a cellular-automata style particle physics sim.
 <!-- Swap the # above for the actual repo link once it's up -->
 
 ---
